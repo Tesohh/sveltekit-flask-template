@@ -1,0 +1,12 @@
+.vscode/
+.DS_STORE
+__pycache__/
+*.old
+*.ko
+.env
+data/
+*private.sql
+test/
+*.dmp
+*.swp
+*.todo
